@@ -1,0 +1,90 @@
+.bulletSection { 
+  font-weight: bold;
+  color: #111;
+  font-family: 'Helvetica Neue' sans-serif; 
+  position:relative;
+  top:20px;
+  bottom:20px;
+}
+
+.childbulletSection { 
+  font-weight: normal;
+  position:relative; 
+  left:50px; //for relative postion it will move paragrapgh tag to 50px left from the existing boundary  
+}
+
+#thirdDiv { 
+  position:relative; 
+  text-align: center; //for relative postion it will move paragrapgh tag to 50px left from the existing boundary  
+}
+
+.myImageClass {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width:180px;
+  height:180px;
+  position:relative;
+}
+.copyTagClass {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+  height:30px;
+  
+}
+.breakDivsion { 
+  position:relative;   
+  top:10px;
+  bottom:22px;
+}
+
+.newLine {
+    display: block;
+    line-height: 2px;
+	line-width:20px;
+	position:relative;
+	top:20px;
+}
+
+.divClass { 
+  position:relative;
+  left:50px;
+  font-weight: bold;
+  color: #111;
+  font-family: 'Helvetica Neue' sans-serif; 
+  position:relative;
+  top:20px;
+}
+.childdivClass { 
+  position:relative;
+  font-weight: normal;
+  color: #111;
+  font-family: 'Helvetica Neue' sans-serif; 
+}
+.myTable {
+	position:relative;
+	left:50px;
+        top:12px;
+        bottom:20px;
+}
+
+.tableRow {
+	border: 2px solid black;
+	position:relative;
+}
+
+.tableCell {
+	border: 2px solid black;
+	position:relative;
+	
+}
+
+.hiddenClass{
+    visibility: hidden;
+    text-align: center;
+}
+
+
